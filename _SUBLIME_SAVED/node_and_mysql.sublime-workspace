@@ -250,10 +250,10 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/dannyp/Desktop/code/development/tutorials_3/node_and_mysql"
 	],
 	"file_history":
 	[
+		"/Users/dannyp/Desktop/code/development/tutorials_3/.gitignore",
 		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/log.txt",
 		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-11.js",
 		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/data/data1.txt",
@@ -380,8 +380,7 @@
 		"/Users/dannyp/Desktop/code/projects/tutorials_1/new-ionic-app/myApp/www/js/app.js",
 		"/Users/dannyp/Desktop/code/projects/tutorials_1/new-ionic-app/myApp/www/index.html",
 		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/sass/_base.scss",
-		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/gulpfile.js",
-		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/js/controllers/MainController.js"
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/gulpfile.js"
 	],
 	"find":
 	{
