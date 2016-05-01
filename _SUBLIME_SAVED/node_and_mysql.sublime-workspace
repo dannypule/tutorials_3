@@ -1,0 +1,602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"write",
+				"writeStream"
+			],
+			[
+				"event",
+				"eventEmitter"
+			],
+			[
+				"callb",
+				"callback"
+			],
+			[
+				"arg",
+				"arg1_"
+			],
+			[
+				"callback",
+				"callback_"
+			],
+			[
+				"buf",
+				"buf1"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"euro",
+				"euro2"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"st",
+				"stdin"
+			],
+			[
+				"Forum",
+				"ForumConstants"
+			],
+			[
+				"class",
+				"classNames"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"get",
+				"getAnswers"
+			],
+			[
+				"emit",
+				"emitChange"
+			],
+			[
+				"mark",
+				"markAsCorrect"
+			],
+			[
+				"Form",
+				"ForumStore"
+			],
+			[
+				"new",
+				"newAnswer"
+			],
+			[
+				"add",
+				"addAnswer"
+			],
+			[
+				"For",
+				"ForumStore"
+			],
+			[
+				"anser",
+				"answerText"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"succe",
+				"successfully"
+			],
+			[
+				"fir",
+				"firebaseObject"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"CON",
+				"console"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"boe",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"push",
+				"pushingLetter"
+			],
+			[
+				"rando",
+				"randomNumber"
+			],
+			[
+				"jumbled",
+				"jumbledWord"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git diff",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dannyp/Desktop/code/development/tutorials_3/node_and_mysql"
+	],
+	"file_history":
+	[
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/log.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-11.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/data/data1.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/data/data2.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/apples.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-10.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/data/foo/bar1.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/data/data5.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/data/data4.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/data/data3.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-9.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-8.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/output.txt",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-71.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-7.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-6b.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-6.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2-5.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2_71.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/events.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2_5.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/srv.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/ex2_eventemitter.js",
+		"/Users/dannyp/Dropbox/CodeNinja/srv.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/index.html",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/buffers.js",
+		"/Users/dannyp/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/_process.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/run.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/hello.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/add2.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/node_oreily_learning_node/addtwo.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/temp/blog-samples/react-hello-world/src/client/app/AwesomeComponent.jsx",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/temp/blog-samples/react-hello-world/src/client/app/index.jsx",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_tut_from_docs/.babelrc",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_tut_from_docs/main.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_tut_from_docs/webpack.config.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_tut_from_docs/src/helloworld.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_tut_from_docs/index.html",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_tut_from_docs/package.json",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_tut_from_docs/.gitignore",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/components/ForumQuestion.react.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/components/ForumHeader.react.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/components/ForumAnswer.react.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/components/ForumAddAnswerBox.react.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/dispatcher.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/eventemitter.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/index.html",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/stores/ForumStore.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/components/ForumAnswers.react.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/constants/ForumConstants.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/actions/ForumActions.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/components/Forum.react.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/app.js",
+		"/Users/dannyp/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/lib/components/Forum.react.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/README.md",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/js/components/stores/ForumStore.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/server.js",
+		"/Users/dannyp/Desktop/code/development/tutorials_2/react_pluralsight/dispatcher/ForumDispatcher.js",
+		"/Users/dannyp/Desktop/code/projects/tutorials_2/react_pluralsight/README.md",
+		"/Users/dannyp/Desktop/code/projects/tutorials_2/react_pluralsight/package.json",
+		"/Users/dannyp/Desktop/code/projects/tutorials_2/react_pluralsight/.gitignore",
+		"/Users/dannyp/Desktop/code/projects/projects_1/bookingTek/src/client/app/features/searchResults/searchResults.controller.spec.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/bookingTek/src/client/app/searchResults/searchResults.route.spec.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/bookingTek/src/client/app/searchResults/searchResults.controller.spec.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/bookingTek/src/client/app/searchResults/searchResults.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/bookingTek/src/client/app/searchResults/searchResults.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/bookingTek/src/client/app/searchResults/searchResults.route.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/bookingTek/.gitignore",
+		"/Users/dannyp/Desktop/code/projects/projects_1/portfolio_dannypule_v2/src/client/app/navbar/navbar.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/portfolio_dannypule_v2/src/client/app/main/main.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/portfolio_dannypule_v2/src/client/app/main/main.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/portfolio_dannypule_v2/src/client/app/core/constants.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/portfolio_dannypule_v2/src/client/app/main/main.route.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/portfolio_dannypule_v2/src/client/app/main/main.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/portfolio_dannypule_v2/src/client/app/app.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/portfolio_dannypule_v2/src/client/index.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/styles/styles.less",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/navbar/navbar.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/index.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/navbar/navbar.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/navbar/navbar.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/users/users.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/users/users.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/videos/videos.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/videos/videos.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/common/Authentication.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/registration/registration.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/app.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/registration/register.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/admin_layout/navbar.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/registration/login.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/users/users.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/users/videos.route.spec.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/users/users.route.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/users/admin.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/features/registration/registration.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/registration/login.route.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/registration/registration.route.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/registration/logout.template.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/bower.json",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/layout/layout.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/core/constants.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/core/core.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/features/videos/videos.controller.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/layout/shell.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/README.md",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/.gitignore",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/videos/videos.route.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/videos/videos.module.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/videos/videos.controller.spec.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things-admin/src/client/app/videos/videos.route.spec.js",
+		"/Users/dannyp/Downloads/animatedModal.js-master/demo/demos.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/js/controllers/SavedVideosController.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/templates/menu.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/sass/styles.scss",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/sass/_shared.scss",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/views/logout.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/views/login.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/views/saved.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/views/register.html",
+		"/Users/dannyp/Desktop/code/projects/tutorials_1/new-ionic-app/myApp/www/templates/menu.html",
+		"/Users/dannyp/Desktop/code/projects/tutorials_1/new-ionic-app/myApp/www/js/app.js",
+		"/Users/dannyp/Desktop/code/projects/tutorials_1/new-ionic-app/myApp/www/index.html",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/sass/_base.scss",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/gulpfile.js",
+		"/Users/dannyp/Desktop/code/projects/projects_1/all-the-things/www/js/controllers/MainController.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"process.env.NODE_ENV",
+			"codeintel_scan_files_in_project",
+			"onAddAnswer",
+			"div",
+			"});\n",
+			"div",
+			"Dispatcher",
+			"();\n",
+			"();",
+			"boot",
+			"allThe",
+			"allTh",
+			">\n",
+			"bootst",
+			"app.admin",
+			"Switch app",
+			">\n",
+			"videos",
+			"div",
+			"userEditForm",
+			"editing",
+			"isObjectEmpty",
+			"firebaseob",
+			"Item",
+			"th",
+			"Item",
+			"0000",
+			"        \n",
+			"animatedModal",
+			"videos",
+			"video",
+			"title",
+			"35729",
+			"livereload",
+			"reload",
+			"<paper-icon-button icon=\"refresh\" ng-click=\"reloadPage()\"></paper-icon-button>",
+			"-->\n",
+			"No soup for you",
+			"$",
+			"card",
+			").factory",
+			".factory",
+			"factory",
+			"700",
+			"-->\n",
+			"dashboard",
+			"admin",
+			"spec",
+			"karma",
+			"dash",
+			"karma",
+			"expected /dashboard equal",
+			"@smoke",
+			"bottom_of_window",
+			"top_of_object",
+			".less",
+			"icons",
+			"FIREBASE_URL",
+			"ui-vi",
+			"browser",
+			"sync",
+			"browser",
+			"brower",
+			"animat",
+			"cli",
+			"lodash@",
+			"lodash@0",
+			"lodash@",
+			"lodash",
+			"serve-dev",
+			"serve",
+			"coffeelint",
+			"coffee",
+			"mongo",
+			"mongo]]",
+			"mongo",
+			"bind_ip",
+			"bindIp",
+			"mongoose.connect",
+			"AngularJS-small",
+			"length"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vm.form.userForm",
+			"editingUser",
+			"@",
+			"#f2f2f2",
+			"bottomOfWindow",
+			"topOfOject"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "node_and_mysql.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fadejs",
+				"src/client/app/common/fade.js"
+			],
+			[
+				"mongod.conf",
+				"node_modules/google-cdn/node_modules/bower/.editorconfig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
